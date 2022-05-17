@@ -1,0 +1,34 @@
+#whole_page {
+    background-image: url("https://ih0.redbubble.net/image.557166896.2755/flat,1000x1000,075,f.u15.jpg");
+    background-color: rgb(248, 248, 226);
+    margin: 20px;
+}
+
+img {
+    border-radius: 50px;
+}
+
+h1 {
+    color: darkblue;
+    border: 4px solid darkgrey;
+    background-color: rgb(236, 224, 204);
+    text-align: center;
+    text-shadow: 3px 3px #979696;
+}
+
+div {
+    padding: 25px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: darkred;
+}
+
+ol {
+    color:rgb(75, 57, 12);
+}
+
+li {
+    margin: 10px;
+}
